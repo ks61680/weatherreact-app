@@ -1,0 +1,31 @@
+.container {
+  width: 550px;
+  height: 500px;
+  margin: 20px;
+  border: solid 5px slateblue;
+  background-image: linear-gradient(#2af598, #0fbed8);
+}
+.smallImage {
+  max-width: 50px;
+  max-height: 50px;
+}
+.city {
+  text-decoration: underline;
+  font-size: 42px;
+}
+.time {
+  color: seagreen;
+  font-size: 35px;
+}
+.row {
+  padding: 5px;
+}
+.mainTemp {
+  font-size: 50px;
+}
+.active {
+  color: #0056b3;
+}
+#forecast {
+  color: #367588;
+}
